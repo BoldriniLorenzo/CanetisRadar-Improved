@@ -35,9 +35,9 @@ namespace CanetisRadar
 			this.RadarBox = new global::System.Windows.Forms.PictureBox();
 			((global::System.ComponentModel.ISupportInitialize)this.RadarBox).BeginInit();
 			base.SuspendLayout();
-			int yPosRadar = 50;
-			this.RadarBox.Location = new global::System.Drawing.Point(12, yPosRadar);
-			this.RadarBox.Name = "RadarBox";
+			this.RadarBox.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
+            this.RadarBox.Location = new System.Drawing.Point(175, 12);
+            this.RadarBox.Name = "RadarBox";
 			this.RadarBox.Size = new global::System.Drawing.Size(150, 150);
 			base.AutoScaleDimensions = new global::System.Drawing.SizeF(6f, 13f);
 			base.AutoScaleMode = global::System.Windows.Forms.AutoScaleMode.Font;

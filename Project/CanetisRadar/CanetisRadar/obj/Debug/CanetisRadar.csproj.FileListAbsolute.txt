@@ -1,2 +1,14 @@
 D:\Daten\Freizeit\CanetisRadarFork\github\CanetisRadarv3\Project\CanetisRadar\CanetisRadar\obj\Debug\CanetisRadar.csproj.AssemblyReference.cache
 D:\Daten\Freizeit\CanetisRadarFork\github\CanetisRadarv3\Project\CanetisRadar\CanetisRadar\obj\Debug\CanetisRadar.csproj.CoreCompileInputs.cache
+C:\Users\loren\Documents\Github\CanetisRadar-Improved\Project\CanetisRadar\CanetisRadar\bin\Debug\CanetisRadar.exe.config
+C:\Users\loren\Documents\Github\CanetisRadar-Improved\Project\CanetisRadar\CanetisRadar\bin\Debug\CanetisRadar.exe
+C:\Users\loren\Documents\Github\CanetisRadar-Improved\Project\CanetisRadar\CanetisRadar\bin\Debug\CanetisRadar.pdb
+C:\Users\loren\Documents\Github\CanetisRadar-Improved\Project\CanetisRadar\CanetisRadar\bin\Debug\INIFileParser.dll
+C:\Users\loren\Documents\Github\CanetisRadar-Improved\Project\CanetisRadar\CanetisRadar\bin\Debug\NAudio.dll
+C:\Users\loren\Documents\Github\CanetisRadar-Improved\Project\CanetisRadar\CanetisRadar\bin\Debug\INIFileParser.xml
+C:\Users\loren\Documents\Github\CanetisRadar-Improved\Project\CanetisRadar\CanetisRadar\bin\Debug\NAudio.xml
+C:\Users\loren\Documents\Github\CanetisRadar-Improved\Project\CanetisRadar\CanetisRadar\obj\Debug\CanetisRadar.csproj.AssemblyReference.cache
+C:\Users\loren\Documents\Github\CanetisRadar-Improved\Project\CanetisRadar\CanetisRadar\obj\Debug\CanetisRadar.csproj.CoreCompileInputs.cache
+C:\Users\loren\Documents\Github\CanetisRadar-Improved\Project\CanetisRadar\CanetisRadar\obj\Debug\CanetisR.246BC419.Up2Date
+C:\Users\loren\Documents\Github\CanetisRadar-Improved\Project\CanetisRadar\CanetisRadar\obj\Debug\CanetisRadar.exe
+C:\Users\loren\Documents\Github\CanetisRadar-Improved\Project\CanetisRadar\CanetisRadar\obj\Debug\CanetisRadar.pdb
